@@ -12,6 +12,15 @@
 > C++
 
 
+> Visual Studio Code
+
+
+> Android Studio
+
+
+> intellij IDEA
+
+
 > GitHub
 
 
@@ -30,10 +39,7 @@
 > Node.js
 
 
-
-```
-Hello
-```
+##
 My Portfolio 👉 [Portfolio](https://ayushnandanwar08.github.io/My-Portfolio-Website/)
 
 
