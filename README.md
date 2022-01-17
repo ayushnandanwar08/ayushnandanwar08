@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi there 👋,
 
-### I'm Ayush Nandanwar,
+## I'm Ayush Nandanwar, 
+
 
 - 🔭 I’m currently working on My Skills
 - 🌱 I’m currently learning DSA and Web Development
