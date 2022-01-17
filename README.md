@@ -1,16 +1,14 @@
 ### Hi there 👋
 
 
-**ayushnandanwar08/ayushnandanwar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Data Structure and Algorithms
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on My Skills
+- 🌱 I’m currently learning DSA and Web Development
+- 👯 I’m looking to collaborate on other Developer
+- 🤔 I’m looking for h
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Mastering Fronted and Backend
+- 🧑‍💻 Preparing for GSOC 2022
+- 📫 How to reach me: @ayushnandanwar003@gmail.com
+
 
