@@ -3,10 +3,10 @@
 ## I'm Ayush Nandanwar, 
 
 
-- 🔭 I’m currently working on My Skills
-- 🌱 I’m currently learning DSA and Web Development
-- 💻 Mastering Fronted and Backend
-- 🧑‍💻 Preparing for GSOC 2022
+- 🔭 I’m currently working on my skills
+- 🌱 I’m currently learning DSA and Web Development and Cloud Computing
+- 💻 Mastering Data Structures and Algorithms
+- 🧑‍💻 Preparing for upcoming challenges
 - 📫 How to reach me: ayushnandanwar003@gmail.com
 
 ## My Skills
